@@ -1,6 +1,6 @@
 [package]
 name = "maytrix-domain"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Maytrix domain library to support functional domain models"
 license = "MIT"
@@ -11,4 +11,4 @@ name = "maytrix_domain"
 path = "src/lib.rs"
 
 #[dependencies]
-#maytrix-value = { version = "0.1.0", path = "../maytrix-value" }
+#maytrix-value = { version = "0.1.1", path = "../maytrix-value" }

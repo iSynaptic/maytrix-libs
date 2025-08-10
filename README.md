@@ -1,11 +1,11 @@
 # maytrix
 
-[![CI](https://github.com/iSynaptic/maytrix/workflows/CI/badge.svg)](https://github.com/iSynaptic/maytrix/actions)
+[![CI](https://github.com/iSynaptic/maytrix-libs/workflows/CI/badge.svg)](https://github.com/iSynaptic/maytrix/actions)
 
-This repository is now a Cargo workspace containing multiple crates:
+This repository is a Cargo workspace containing multiple crates:
 
 - maytrix-value — core value types
-- maytrix-domain — domain logic built on maytrix-value
+- maytrix-domain — domain logic support library
 
 ## Build
 
