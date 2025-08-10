@@ -1,0 +1,13 @@
+[package]
+name = "maytrix-value"
+version = "0.1.0"
+edition = "2021"
+description = "Core value types for Maytrix"
+license = "MIT"
+repository = "https://github.com/iSynaptic/maytrix-libs"
+
+[lib]
+name = "maytrix_value"
+path = "src/lib.rs"
+
+[dependencies]

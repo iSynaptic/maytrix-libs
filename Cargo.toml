@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "maytrix-value",
+    "maytrix-domain",
+]
+resolver = "2"
